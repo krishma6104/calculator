@@ -81,7 +81,7 @@ grid-row: span 2;
   }
 
   .calc {
-    width: 95%;
+    width: 90%;
     border-radius: 15px;
     height: 430px;
         margin-top: 20%;
@@ -102,5 +102,6 @@ grid-row: span 2;
   }
 
 }
+
 
 
