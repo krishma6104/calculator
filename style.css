@@ -61,6 +61,7 @@ grid-row: span 2;
   .calc {
     width: 420px;
     height: 500px;
+        margin-top: 10%;
   }
 
   input {
@@ -84,6 +85,7 @@ grid-row: span 2;
     width: 95%;
     border-radius: 15px;
     height: 430px;
+        margin-top: 10%;
   }
 
   input {
@@ -99,4 +101,5 @@ grid-row: span 2;
     font-size: 16px;
     padding: 13px;
   }
+
 }
