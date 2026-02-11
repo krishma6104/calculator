@@ -84,7 +84,7 @@ grid-row: span 2;
     width: 95%;
     border-radius: 15px;
     height: 430px;
-        margin-top: 10%;
+        margin-top: 20%;
   }
 
   input {
@@ -102,4 +102,5 @@ grid-row: span 2;
   }
 
 }
+
 
