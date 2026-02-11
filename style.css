@@ -61,7 +61,6 @@ grid-row: span 2;
   .calc {
     width: 420px;
     height: 500px;
-        margin-top: 10%;
   }
 
   input {
@@ -103,3 +102,4 @@ grid-row: span 2;
   }
 
 }
+
